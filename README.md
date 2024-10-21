@@ -7,3 +7,5 @@ The self-restart mechanism may not work on all platforms, but it can be replaced
 Command must be run as sudo 
 
 "sudo python3 Keyboard-Randomizer-Script.py"
+
+The password for my debian 1 box is "student"
